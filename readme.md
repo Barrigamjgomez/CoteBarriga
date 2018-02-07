@@ -1,6 +1,6 @@
-## Portafolio Sketcher
+## Portafolio Sketch
 
-Por medio de este sketcher le voy a describir las funcionalidades principales de mi portafolio web o pagina web personal, donde definiré a través de secciónes las caracteristicas principales que me definen como persona y profesional.
+Por medio de este sketch le voy a describir las funcionalidades principales de mi portafolio web o pagina web personal, donde definiré a través de secciónes las caracteristicas principales que me definen como persona y profesional.
 Para estó e trabajo en un diseño acorde a el area que me define usando una paleta de colores que me acomode visualmente de acuerdo a mis gustos.
 
 -  #333333
@@ -36,3 +36,5 @@ Aqui incluire el soft skills y todo lo que tiene que ver con redes sociales o ma
 
 ## Footer
 Mi nombre y año
+
+[assets/img/_DSC0170.JPG](assets/img/_DSC0170.JPG)
