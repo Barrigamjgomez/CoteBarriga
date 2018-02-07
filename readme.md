@@ -37,4 +37,4 @@ Aqui incluire el soft skills y todo lo que tiene que ver con redes sociales o ma
 ## Footer
 Mi nombre y año
 
-[assets/img/_DSC0170.JPG](assets/img/_DSC0170.JPG)
+[assets/](assets/img/_DSC0170.JPG)
