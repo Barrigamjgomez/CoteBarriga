@@ -1,3 +1,182 @@
 body{
-	background-color: #1F2C3D;
+	font-family: 'Rosario', sans-serif;
 }
+a:focus,a:hover,a{
+    outline:none;
+    text-decoration: none;
+}
+li,ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+/*Home Page*/
+
+.home {
+    background: #23242b;
+}
+/*#E3AC1B botones*/
+
+#navigation {
+    background: #242b35;
+    width: 10%;
+}
+
+#navigation {
+    padding: 0;
+    margin-left: 0%;
+}
+
+.display-table {
+    display: table;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.display-table-row {
+    display: table-row;
+    height: 100%;
+}
+
+.display-table-cell {
+    display: table-cell;
+    float: none;
+    height: 100%;
+}
+
+.v-align {
+    vertical-align: top;
+}
+.logo img {
+    max-width: 180px;
+    padding: 16px 0 17px;
+    width: 100%;
+}
+.logo{
+    border-right: 1px solid #4b4d51;
+}
+
+.add-project::before {
+    background: rgba(0, 0, 0, 0) url("../images/plus.png") no-repeat scroll 0 0;
+    content: "";
+    ;
+    height: 12px;
+    left: 17px;
+    position: absolute;
+    top: 12px;
+    width: 12px;
+}
+
+.icon-info {
+    position: relative;
+}
+
+.navi i {
+    font-size: 20px;
+}
+.label.label-primary {
+    border-radius: 50%;
+    font-size: 9px;
+    left: 8px;
+    position: absolute;
+    top: -9px;
+}
+
+.icon-info .label {
+    border: 2px solid #E3AC1B;
+    font-weight: 500;
+    padding: 3px 5px;
+    text-align: center;
+}
+
+.header-top li {
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+.navbar-content > span {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.img-responsive {
+    width: 100%;
+}
+#navigation{
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    margin-left: 0%;
+}
+
+
+header {
+    background: #ffffff none repeat scroll 0 0;
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.04);
+    display: inline-block !important;
+    line-height: 23px;
+   
+
+}
+
+.navi a {
+    border-bottom: 1px solid #4b4d51;
+    border-top: 1px solid #4b4d51;
+    border-right: 1px solid #4b4d51;
+    color: #4b4d51;
+    display: block;
+    font-size: 17px;
+    padding: 28px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navi i { 
+	font-size: 35px;
+    color:#65676a ;
+    display: block;
+    text-align: center; 
+    padding: 8%;
+}
+
+.navi .active a {
+    color: #E3AC1B;
+}
+
+.navi  span:hover {
+    color:#E3AC1B;  
+    padding-left: 10px;
+}
+.navi  ul i:hover {
+    color:#E3AC1B;  
+    
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.navbar-toggle {
+    border: none;
+}
+
+.circle-logo {
+    margin: 0 auto;
+    max-width: 30px !important;
+    text-align: center;
+}
+.hidden-xs{
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+
